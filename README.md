@@ -1,6 +1,6 @@
-# Drywall
+# Docker Support
 
-A website and user system starter. Implemented with Express and Backbone.
+A website and user system authentication for CRM system.
 
 [![Dependency Status](https://david-dm.org/jedireza/drywall.svg?theme=shields.io)](https://david-dm.org/jedireza/drywall)
 [![devDependency Status](https://david-dm.org/jedireza/drywall/dev-status.svg?theme=shields.io)](https://david-dm.org/jedireza/drywall#info=devDependencies)
@@ -22,17 +22,6 @@ We're using [Grunt](http://gruntjs.com/) for the asset pipeline.
 | Passport      | Underscore.js  |             |
 | Async         | Font-Awesome   |             |
 | EmailJS       | Moment.js      |             |
-
-
-## Live demo
-
-| Platform                       | Username | Password |
-| ------------------------------ | -------- | -------- |
-| https://drywall.herokuapp.com/ | root     | h3r00t   |
-
-__Note:__ The live demo has been modified so you cannot change the root user,
-the root user's linked admin role or the root admin group. This was done in
-order to keep the app ready to use at all times.
 
 
 ## Requirements
