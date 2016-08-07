@@ -1,11 +1,11 @@
 {
-  "name": "Drywall",
+  "name": "",
   "version": "0.18.0",
   "private": true,
   "scripts": {
     "start": "grunt"
   },
-  "author": "Reza Akhavan <jedireza@gmail.com> (http://reza.akhavan.me/)",
+  "author": "",
   "license": "MIT",
   "engines": {
     "node": ">=4.0.0"
